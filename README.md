@@ -15,8 +15,6 @@ All data is stored in-memory — no database required.
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Configuration](#️-configuration)
-- [API Endpoints](#-api-endpoints)
-- [Running Unit Tests](#-running-unit-tests)
 - [Notes](#-notes)
 
 ---
@@ -59,30 +57,27 @@ All data is stored in-memory — no database required.
 - A free API key from IPGeolocation.io  
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/your-username/IPCountryBlocker.git
 cd IPCountryBlocker
 
 ### 2. Configure API Key
-
 Open ValidIPandBlockedCountries.API/appsettings.json and add your key:
-```json
-IpGeolocation": {
-    "ApiKey": "YOUR_API_KEY_HERE",
-    "BaseUrl": "https://api.ipgeolocation.io/ipgeo"
-  }
+"IpGeolocation": {
+  "ApiKey": "YOUR_API_KEY_HERE",
+  "BaseUrl": "https://api.ipgeolocation.io/ipgeo"
+}
 
 ### 3. Run the Application
 cd ValidIPandBlockedCountries.API
 dotnet run
+
 ### 4. Open Swagger UI
 Navigate to:
 https://localhost:{port}/swagger
 
-📌 Notes
+## 📌 Notes
 
-- All data resets when the application restarts (in-memory only).
-- The background cleanup service runs every 5 minutes to remove expired temporal blocks.
-- AddSingleton is used for repositories to keep data alive for the app lifetime.
-- IServiceScopeFactory is used inside the background service to safely resolve scoped services.
+-[All data resets when the application restarts (in-memory only).]
+- [The background cleanup service runs every 5 minutes to remove expired temporal blocks.]
+- [AddSingleton is used for repositories to keep data alive for the app lifetime.]
+- [IServiceScopeFactory is used inside the background service to safely resolve scoped services.]
