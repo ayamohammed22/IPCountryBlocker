@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\bin\Debug\net8.0\ValidIPandBlockCountries.Core.deps.json
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\bin\Debug\net8.0\ValidIPandBlockCountries.Core.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\bin\Debug\net8.0\ValidIPandBlockCountries.Core.pdb
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\refint\ValidIPandBlockCountries.Core.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ValidIPandBlockCountries.Core.pdb
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIPandBlockCountries.Core\obj\Debug\net8.0\ref\ValidIPandBlockCountries.Core.dll

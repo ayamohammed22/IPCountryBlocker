@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ValidIpandBlockCountires.Infrastructure/ValidIpandBlockCountires.Infrastructure.csproj" />
+  <Project Path="ValidIpandBlockCountires/ValidIpandBlockCountires.Service.csproj" />
+  <Project Path="ValidIPandBlockCountries.Core/ValidIPandBlockCountries.Core.csproj" />
+  <Project Path="ValidIPandBlockedCountries.API/ValidIPandBlockedCountries.API.csproj" />
+</Solution>

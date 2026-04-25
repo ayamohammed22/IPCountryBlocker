@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|c:\\users\\hp\\source\\repos\\validipandblockedcountries\\validipandblockedcountries.api\\tempblockedcountriescleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|solutionrelative:validipandblockedcountries.api\\tempblockedcountriescleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|c:\\users\\hp\\source\\repos\\validipandblockedcountries\\validipandblockedcountries.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|solutionrelative:validipandblockedcountries.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|c:\\users\\hp\\source\\repos\\validipandblockedcountries\\validipandblockedcountries.api\\controllers\\logcountroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|solutionrelative:validipandblockedcountries.api\\controllers\\logcountroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|c:\\users\\hp\\source\\repos\\validipandblockedcountries\\validipandblockedcountries.api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|solutionrelative:validipandblockedcountries.api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|c:\\users\\hp\\source\\repos\\validipandblockedcountries\\validipandblockedcountries.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF86223-5A9B-49E1-999F-BA52CD1BA19D}|ValidIPandBlockedCountries.API\\ValidIPandBlockedCountries.API.csproj|solutionrelative:validipandblockedcountries.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928EF2DB-4A80-49E6-A42C-CBC7BA61C8EA}|ValidIPandBlockCountries.Core\\ValidIPandBlockCountries.Core.csproj|c:\\users\\hp\\source\\repos\\validipandblockedcountries\\validipandblockcountries.core\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928EF2DB-4A80-49E6-A42C-CBC7BA61C8EA}|ValidIPandBlockCountries.Core\\ValidIPandBlockCountries.Core.csproj|solutionrelative:validipandblockcountries.core\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TempBlockedCountriesCleanupService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\TempBlockedCountriesCleanupService.cs",
+              "RelativeDocumentMoniker": "ValidIPandBlockedCountries.API\\TempBlockedCountriesCleanupService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\TempBlockedCountriesCleanupService.cs",
+              "RelativeToolTip": "ValidIPandBlockedCountries.API\\TempBlockedCountriesCleanupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T01:20:22.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Program.cs",
+              "RelativeDocumentMoniker": "ValidIPandBlockedCountries.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Program.cs",
+              "RelativeToolTip": "ValidIPandBlockedCountries.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T01:20:20.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogCountroller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Controllers\\LogCountroller.cs",
+              "RelativeDocumentMoniker": "ValidIPandBlockedCountries.API\\Controllers\\LogCountroller.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Controllers\\LogCountroller.cs",
+              "RelativeToolTip": "ValidIPandBlockedCountries.API\\Controllers\\LogCountroller.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T01:20:15.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ipController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Controllers\\ipController.cs",
+              "RelativeDocumentMoniker": "ValidIPandBlockedCountries.API\\Controllers\\ipController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Controllers\\ipController.cs",
+              "RelativeToolTip": "ValidIPandBlockedCountries.API\\Controllers\\ipController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T01:20:11.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "ValidIPandBlockedCountries.API\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockedCountries.API\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "ValidIPandBlockedCountries.API\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T01:20:04.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockCountries.Core\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "ValidIPandBlockCountries.Core\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ValidIPandBlockedCountries\\ValidIPandBlockCountries.Core\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "ValidIPandBlockCountries.Core\\Response\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T01:19:55.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

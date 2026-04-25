@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIpandBlockCountires.Service.deps.json
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIpandBlockCountires.Service.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIpandBlockCountires.Service.pdb
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIpandBlockCountires.Infrastructure.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIPandBlockCountries.Core.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIpandBlockCountires.Infrastructure.pdb
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\bin\Debug\net8.0\ValidIPandBlockCountries.Core.pdb
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.AssemblyInfo.cs
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpa.320614C7.Up2Date
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\refint\ValidIpandBlockCountires.Service.dll
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ValidIpandBlockCountires.Service.pdb
+C:\Users\hp\source\repos\ValidIPandBlockedCountries\ValidIpandBlockCountires\obj\Debug\net8.0\ref\ValidIpandBlockCountires.Service.dll
